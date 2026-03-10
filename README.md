@@ -45,7 +45,7 @@ lib/
 Clone project
 
 ```
-git clone https://github.com/phucx0/topic-1.git
+git clone https://github.com/phucx0/task-calendar-app.git
 ```
 
 Install dependencies
