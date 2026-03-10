@@ -1,6 +1,11 @@
 class Task {
-  final String title;
-  final DateTime date;
+  String title;
+  DateTime date;
+  bool isHidden;
 
-  Task({required this.title, required this.date});
+  Task({
+    required this.title,
+    required this.date,
+    this.isHidden = false,
+  });
 }
